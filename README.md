@@ -1,5 +1,8 @@
 
 <div align="center">
+  <img src="github-banner.png" alt="Amdadul Haque Professional Banner" width="100%">
+</div>
+<div align="center">
 
 # 👋 Hi, I'm Amdadul Haque
 
